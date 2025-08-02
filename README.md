@@ -39,7 +39,7 @@ Some OptiFine features are supported thanks to Fabric mods. While not everything
 ## 📻 How do I Contact You?
 
 You have an question or something else?  
-👉 Our [**Discord server**](https://discord.gg/uS3tTJv9pR) is there!
+👉 Our [**Discord server**](https://discord.gg/2Ubrr6QGP6) is there!
 
 ---
 
