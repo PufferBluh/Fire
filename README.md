@@ -48,10 +48,5 @@ You have an question or something else?
 Yes! Our website is [pufferbluh.gay](https://www.pufferbluh.gay/), still useless thought.
 
 ---
-## 🐞 I found a bug!
-
-There is always our [**Discord server**](https://discord.gg/wFKepGSr7r)!
-
----
 
 _Last update: 2.8.2025_
