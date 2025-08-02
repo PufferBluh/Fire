@@ -6,6 +6,11 @@
 
 **Fire** is a modpack for people who just want to **play** Minecraft. No need to install dozens of mods, texture packs, or tweak endless settings — just **_plug and play_**.
 
+---
+
+## 🤔 Where can I get Fire?
+
+You can download Fire at [**Modrinth**](https://modrinth.com/modpack/firepack)! Will it be on CurseForge? Idk.
 
 ---
 
@@ -49,10 +54,4 @@ There is always our [**Discord server**](https://discord.gg/wFKepGSr7r)!
 
 ---
 
-## 📜 License
-
-**MIT License** – (Don’t really care.)
-
----
-
-_Last update: 31.07.2025_
+_Last update: 2.8.2025_
