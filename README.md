@@ -1,10 +1,12 @@
-![Soon On CurseForge](https://cdn.modrinth.com/data/cached_images/b90c7d5d708d43e7481b84e2a57c1a1c553c9286.png) ![Available for Fabric](https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba_0.webp) <a href="https://buymeacoffee.com/pufferbluh" rel="some text">![Buy Me a Coffee link](https://cdn.modrinth.com/data/cached_images/4d9746f9c350bf1345ca0657f4f6b4de9157d893.png)
+> 1.21.9 coming soon! Get notified on our [**Discord server**](https://discord.gg/2Ubrr6QGP6)!
+
+[![Available on Modrinth](https://cdn.modrinth.com/data/cached_images/56a3d34eefd3bbd4b34ee9c05b71c2fc68e3d4ec.png)](https://modrinth.com/modpack/firepack) <a href="https://www.curseforge.com/minecraft/modpacks/fire-desktop" rel="CurseForge">![Available on CurseForge](https://cdn.modrinth.com/data/cached_images/8f812aa7fba48861e2d1a0cd3e056064b9463e9f.png) </a> ![Available for Fabric](https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba_0.webp) <a href="https://buymeacoffee.com/pufferbluh" rel="BuyMeACoffee">![Buy Me a Coffee link](https://cdn.modrinth.com/data/cached_images/4d9746f9c350bf1345ca0657f4f6b4de9157d893.png)
 
 </a>
 
-<a href="google.com" rel="some text">![Feedback Fire](https://cdn.modrinth.com/data/cached_images/cc51654187b303f70252871a6ef131900299084c.png) </a> ``` 1 ```
+<a href="https://mmcreviews.com/all/modpacks/fire/" rel="MMCReviews">![Feedback Fire](https://cdn.modrinth.com/data/cached_images/cc51654187b303f70252871a6ef131900299084c.png) </a> ``` 1 ```
 
-*Fire takes a lot of time and effort, please consider becoming a member on Buy Me a Coffee :3*
+*Fire takes a lot of time and effort, please consider becoming a member on Buy Me a Coffee, only for a dollar monthly! :3*
 
 # Welcome to Fire.
 
@@ -69,6 +71,7 @@ Fire's UI elements aren't that much different from [**Fabulously Optimized**](ht
 
 | Minecraft Version      | Support until               | Status              |
 |---------------------|:---------------------:|---------------------:|
+| 1.21.9            | November 2025     | Soon ☑️             |
 | 1.21.8            | October 2025     | Supported ✅             |
 | 1.21.7            | September 2025      | Supported ✅             |
 | 1.21.1            | January 2026        | Supported ✅             |
