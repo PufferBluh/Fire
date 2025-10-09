@@ -1,12 +1,10 @@
-> 1.21.9 coming soon! Get notified on our [**Discord server**](https://discord.gg/2Ubrr6QGP6)!
-
-[![Available on Modrinth](https://cdn.modrinth.com/data/cached_images/56a3d34eefd3bbd4b34ee9c05b71c2fc68e3d4ec.png)](https://modrinth.com/modpack/firepack) <a href="https://www.curseforge.com/minecraft/modpacks/fire-desktop" rel="CurseForge">![Available on CurseForge](https://cdn.modrinth.com/data/cached_images/8f812aa7fba48861e2d1a0cd3e056064b9463e9f.png) </a> ![Available for Fabric](https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba_0.webp) <a href="https://buymeacoffee.com/pufferbluh" rel="BuyMeACoffee">![Buy Me a Coffee link](https://cdn.modrinth.com/data/cached_images/4d9746f9c350bf1345ca0657f4f6b4de9157d893.png)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/modpack/firepack) [![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/fire-desktop) ![Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/supported/fabric_vector.svg) [![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg)](https://github.com/PufferBluh/Fire) [![GitBook](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/gitbook_vector.svg)](https://firewiki.pufferbluh.gay/) [![Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-singular_vector.svg)](https://ko-fi.com/pufferbluh) [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg)](https://discord.gg/2Ubrr6QGP6)
 
 </a>
 
 <a href="https://mmcreviews.com/all/modpacks/fire/" rel="MMCReviews">![Feedback Fire](https://cdn.modrinth.com/data/cached_images/cc51654187b303f70252871a6ef131900299084c.png) </a> ``` 1 ```
 
-*Fire takes a lot of time and effort, please consider becoming a member on Buy Me a Coffee, only for a dollar monthly! :3*
+_Not all versions are on CurseForge! Please use Modrinth for more versions to choose!_
 
 # Welcome to Fire.
 
